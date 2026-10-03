@@ -28,6 +28,11 @@ It is made for families, singers, and karaoke fans who want a simple, good-looki
 
 > 💬 Official page: <https://www.facebook.com/songhubpc>
 
+## ⚙️ Requirements
+- Recommended Windows 10, Windows 11 64 bit Operating System, supports also Windows 8.1 (need some requirements)
+- 2GB of RAM
+- On-board Graphics or GPU
+
 ## ✨ Features
 
 ### 🎶 Supported song formats
@@ -189,6 +194,11 @@ Para ito sa pamilya, mga mahilig kumanta, at karaoke fans na gusto ng simple at 
 
 > 💬 Opisyal na page: <https://www.facebook.com/songhubpc>
 
+## ⚙️ Requirements
+- Recommended Windows 10, Windows 11 64 bit Operating System, supports also Windows 8.1 (need some requirements)
+- 2GB of RAM
+- On-board Graphics or GPU
+  
 ## ✨ Mga Features
 
 ### 🎶 Mga sinusuportahang format
